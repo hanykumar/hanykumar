@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hanykumar
-- 👀 I’m interested in Development
+- 👀 I’m looking forward for Angular, React, React-Native. I have experiance of 4 years.
 - 🌱 I’m still learning.
-- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me : my Profile.
 
 <!---
