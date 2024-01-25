@@ -9,9 +9,10 @@
 - linkedIn: [/hanykumar](https://www.linkedin.com/in/hanykumar/)
   
   Personal projects:
-  - [Portfolio](https://hanykumar.vercel.app/)
-  - [Task List Web App](https://tasklist-hanykumar.vercel.app/)
+  - [Portfolio](https://hanykumar.in/)
+  - [Task List Web App](https://tasklist.hanykumar.in/)
   - [Task List Android App](https://play.google.com/store/apps/details?id=com.hanykumar.tasklist)
+  - [Javascript Compiler](https://compiler.hanykumar.in/)
   
 
 <!---
