@@ -3,7 +3,6 @@
   Previously worked at Vimaan, an improving inventory tracking and accuracy leading company, GeekyAnts, a global leading web and mobile app development company where I contributed to several projects that     enhanced the customer experience and optimized client experience for their product. 
 
   I used my skills and knowledge to create secure, user-friendly, and impactful solutions that addressed real-world problems and challenges. I enjoyed collaborating with other engineers, learning new   technologies, and exploring new domains.
-- 👀 Looking for Software Engineer, Web Developer, Full Stack Developer role immediately
 - 🌱 As a professional software engineer, I thrive in the dynamic realm of technology, continuously learning and evolving to deliver innovative solutions
 - 📫 How to reach me : kumar.hany1994@gmail.com.
 - linkedIn: [/hanykumar](https://www.linkedin.com/in/hanykumar/)
